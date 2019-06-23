@@ -6,11 +6,9 @@ I've done my best to source all the authors as well as link their original repos
 
 ## Pictures
 
-<p align="center"><img src="https://github.com/kb1900/Anki-Addons/blob/master/Example%201.png"></p>
+<p align="center"><img src="https://github.com/kb1900/Anki-Addons/blob/master/Example%201.png" width="600"></p>
 
-<p align="center"><img src="https://github.com/kb1900/Anki-Addons/blob/master/Example%202.png"></p>
-
-<p align="center"><img src="https://github.com/kb1900/Anki-Addons/blob/master/Example%203.png"></p>
+<p align="center"><img src="https://github.com/kb1900/Anki-Addons/blob/master/Example%203.png" width="600"></p>
 
 
 ## Installation
@@ -55,3 +53,10 @@ Check them out individually:
 |[Night Mode (1496166067) by Krassowski](https://ankiweb.net/shared/info/1496166067)|`'Night mode'`| 
 |[review_heatmap (beta) by Glutanimate](https://github.com/glutanimate/review-heatmap)|`'Adds a heatmap graph to Anki's main window'`| 
 |[True Retention (613684242) by Vitaly Osipov](https://ankiweb.net/shared/info/613684242)|`'True Retention (pass rate calculated only among "Review" cards) is a better indicator of learning quality than "Again" rate'`| 
+
+
+## To Do
+
+- Write a script to download and install anki + subsequently install addons in one go
+- Write a few custom addons
+- Actually study
