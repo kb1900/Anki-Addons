@@ -12,6 +12,31 @@ I've done my best to source all the authors as well as link their original repos
 
 <p align="center"><img src="https://github.com/kb1900/Anki-Addons/blob/master/Example%203.png"></p>
 
+
+## Installation
+
+1. Ensure you are on Anki 2.1
+
+Option A:
+
+2. Navigate to the Anki addons folder: Open Anki -> Tools -> Addons -> View Files
+
+3. Extract the contents of this repo
+
+4. Restart Anki!
+
+Option B:
+
+2. Navigate to Anki addons folder in your shell:
+
+  Linux: ```cd "${HOME}/.local/share/Anki2/addons21"```
+
+  Mac: ```cd "${HOME}/Library/Application Support/Anki2/addons21"```
+
+3. Ensure the directory is empty and clone the repo into the current dir:
+
+```git clone https://github.com/kb1900/Anki-Addons/edit/master/README.md .```
+
 ## Card Styling
 See: [How to Design Beautiful Anki Cards by Shamim Ahmed](https://medshamim.com/med/how-to-design-beautiful-anki-cards)
 
