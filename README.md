@@ -6,11 +6,11 @@ I've done my best to source all the authors as well as link their original repos
 
 ## Pictures
 
-<p align="center"><img src="https://github.com/kb1900/Anki-Addons/Example 1.png"></p>
+<p align="center"><img src="https://github.com/kb1900/Anki-Addons/blob/master/Example%201.png"></p>
 
-<p align="center"><img src="https://github.com/kb1900/Anki-Addons/Example 2.png"></p>
+<p align="center"><img src="https://github.com/kb1900/Anki-Addons/blob/master/Example%202.png"></p>
 
-<p align="center"><img src="https://github.com/kb1900/Anki-Addons/Example 3.png"></p>
+<p align="center"><img src="https://github.com/kb1900/Anki-Addons/blob/master/Example%203.png"></p>
 
 ## Card Styling
 See: [How to Design Beautiful Anki Cards by Shamim Ahmed](https://medshamim.com/med/how-to-design-beautiful-anki-cards)
